@@ -2,9 +2,9 @@
 # :raised_hand: Halo, I'm Luky <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
-    <a href="https://github.com/Yafigg" target="_blank">
+    <a href="https://github.com/luckkeyyy" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    <a href="https://www.instagram.com/yafig.36/" target="_blank">
+    <a href="https://www.instagram.com/luckkeyyy//" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
    
 </p>
